@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ⚡ Asmaa Mohammed ⚡ React Front End Developer ⚡
-## 📫 About Me
+## # 📫 About Me
 I am a Front-End developer, specializing in React with over a year of experience building dynamic, user-friendly web applications. My solid foundation in HTML, CSS, and JavaScript powers my projects and I'm actively honing my skills in React and Next.js through personal projects. I'm excited to learn new technologies, collaborate with creative minds, and contribute to crafting innovative web solutions that truly make a difference.
 ### 💬 EDUCATION
 Bachelor of Computer Engineering                             
