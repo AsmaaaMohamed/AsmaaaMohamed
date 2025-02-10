@@ -28,7 +28,7 @@ department: Management Information System
     Check it out  [here](https://nextjs-lms-git-master-asmaaamohameds-projects.vercel.app)
 * #### Ecommerce With React & Supabase
     This app with fully common functionality which includes in any Ecommerce Website.(ShoppingCart,,Authentication,CreatingOrders).
-    Check it out here
+    Check it out [here](https://sage-macaron-5da9ae.netlify.app)
 * #### Quiz App with React
     Small Project to discover React Features , using management state and navigating between questions very easily.
-    Check it out here
+    Check it out [here](https://beamish-narwhal-c7f74b.netlify.app/)
