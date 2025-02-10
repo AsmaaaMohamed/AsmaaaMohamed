@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ⚡ Asmaa Mohammed ⚡ React Front End Developer ⚡
-## # 📫 About Me
+# ⚡ Asmaa Mohammed ⚡ React Front End Developer ⚡
+## 📫 About Me
 I am a Front-End developer, specializing in React with over a year of experience building dynamic, user-friendly web applications. My solid foundation in HTML, CSS, and JavaScript powers my projects and I'm actively honing my skills in React and Next.js through personal projects. I'm excited to learn new technologies, collaborate with creative minds, and contribute to crafting innovative web solutions that truly make a difference.
-### 💬 EDUCATION
+## 💬 EDUCATION
 Bachelor of Computer Engineering                             
 department: Management Information System
-### 🌱 Skills
+## 🌱 Skills
 * React | Next.js | Redux | RTK Quairy | Tailwind CSS | Bootstrap | git | Strapi (Headless CMS) | Prisma | Supabase 
-### 🔭 Projects
+## 🔭 Projects
 * #### Learning Management System with NextJS & Prisma
     This app has fully common functionality which includes in any LMS Website.(Enrollment, Authentication, Learning progress).
     Check it out here
