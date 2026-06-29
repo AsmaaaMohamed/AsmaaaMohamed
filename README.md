@@ -22,7 +22,7 @@ Full-Stack Developer specializing in the MERN and PERN stacks, with experience b
 Bachelor of Computer Engineering                             
 department: Management Information System
 ## 🌱 Skills
-* React | Next.js | Redux | RTK Quairy | Tailwind CSS | Bootstrap | git | Strapi (Headless CMS) | Prisma | Supabase Node.js | Express.js | RESTful APIs | JWT Authentication | CRUD Operations | MVC Architecture
+* React | Next.js | Redux | RTK Quairy | Tailwind CSS | Bootstrap | git | Strapi (Headless CMS) | Prisma | Supabase | Node.js | Express.js | RESTful APIs | JWT Authentication | CRUD Operations | MVC Architecture
 ## 🔭 Projects
 * #### PERN Stack Recipe Generator – React & Express & PostgresDB
     Full-Stack AI Recipe Generator App using the PERN (PostgreSQL, Express, React, Node.js) stack, styled with Tailwind CSS v4, and powered by Google Gemini AI.
