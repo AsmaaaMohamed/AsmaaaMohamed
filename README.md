@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ⚡ *Asmaa Mohammed ⚡ MERN | PERN Stack Back End Developer* ⚡
+# ⚡ *Asmaa Mohammed ⚡ MERN | PERN Stack Developer* ⚡
 ## 📫 About Me
 Full-Stack Developer specializing in the MERN and PERN stacks, with experience building responsive, scalable, and user-friendly web applications. Proficient in React, Node.js, Express.js, MongoDB, PostgreSQL, and RESTful APIs. Passionate about writing clean, maintainable code, solving complex problems, and continuously learning modern web technologies to deliver high-quality software solutions.
  I'm excited to learn new technologies, collaborate with creative minds, and contribute to crafting innovative web solutions that truly make a difference.
