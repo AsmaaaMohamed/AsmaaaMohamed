@@ -14,15 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ⚡ *Asmaa Mohammed ⚡ React & NextJs Front End Developer* ⚡
+# ⚡ *Asmaa Mohammed ⚡ MERN | PERN Stack Back End Developer* ⚡
 ## 📫 About Me
-I am a Front-End developer, specializing in React with over a year of experience building dynamic, user-friendly web applications. My solid foundation in HTML, CSS, and JavaScript powers my projects and I'm actively honing my skills in React and Next.js through personal projects. I'm excited to learn new technologies, collaborate with creative minds, and contribute to crafting innovative web solutions that truly make a difference.
+Full-Stack Developer specializing in the MERN and PERN stacks, with experience building responsive, scalable, and user-friendly web applications. Proficient in React, Node.js, Express.js, MongoDB, PostgreSQL, and RESTful APIs. Passionate about writing clean, maintainable code, solving complex problems, and continuously learning modern web technologies to deliver high-quality software solutions.
+ I'm excited to learn new technologies, collaborate with creative minds, and contribute to crafting innovative web solutions that truly make a difference.
 ## 💬 EDUCATION
 Bachelor of Computer Engineering                             
 department: Management Information System
 ## 🌱 Skills
-* React | Next.js | Redux | RTK Quairy | Tailwind CSS | Bootstrap | git | Strapi (Headless CMS) | Prisma | Supabase 
+* React | Next.js | Redux | RTK Quairy | Tailwind CSS | Bootstrap | git | Strapi (Headless CMS) | Prisma | Supabase Node.js | Express.js | RESTful APIs | JWT Authentication | CRUD Operations | MVC Architecture
 ## 🔭 Projects
+* #### PERN Stack Recipe Generator – React & Express & PostgresDB
+    Full-Stack AI Recipe Generator App using the PERN (PostgreSQL, Express, React, Node.js) stack, styled with Tailwind CSS v4, and powered by Google Gemini AI.
+    Check it out  [here](https://ai-recipe-generator-phi-nine.vercel.app)
+* #### MERN stack Ecommerce – React & Express & MongoDB
+    A full-stack web application built with React, Node.js, Express, and MongoDB. The project features a responsive user interface, RESTful APIs, secure data management, and dynamic CRUD operations.
+    Check it out  [here](https://fullstack-ecommerce-front-nine.vercel.app)
 * #### Learning Management System with NextJS & Prisma
     This app has fully common functionality which includes in any LMS Website.(Enrollment, Authentication, Learning progress).
     Check it out  [here](https://nextjs-lms-git-master-asmaaamohameds-projects.vercel.app)
